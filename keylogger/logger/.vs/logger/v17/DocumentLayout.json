@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\virtual_studio_code\\malware_code\\research\\keylogger\\logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375B41C0-83DE-4037-B1BD-E1B0CFADEFFB}|logger.vcxproj|A:\\virtual_studio_code\\malware_code\\research\\keylogger\\logger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{375B41C0-83DE-4037-B1BD-E1B0CFADEFFB}|logger.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "A:\\virtual_studio_code\\malware_code\\research\\keylogger\\logger\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "A:\\virtual_studio_code\\malware_code\\research\\keylogger\\logger\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwKUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T12:08:13.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

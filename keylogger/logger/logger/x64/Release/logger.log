@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  logger.vcxproj -> A:\virtual_studio_code\malware_code\research\keylogger\logger\x64\Release\logger.exe
